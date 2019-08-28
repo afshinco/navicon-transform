@@ -39,10 +39,10 @@ body {
 }
 
 .demo-top-bar a i {
-  font-size: 1.4em;
+  font-size: 2em;
 }
 
 .demo-top-bar a:hover {
-  background-color: #555;
+  background-color: #111;
   color: #fff;
 }
